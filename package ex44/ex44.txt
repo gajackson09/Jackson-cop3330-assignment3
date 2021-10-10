@@ -1,0 +1,4 @@
+@startuml
+Classjsonfile- program : reads >
+program*- Inventory: createsaninventory >
+@enduml
