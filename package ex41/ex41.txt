@@ -1,0 +1,5 @@
+@startuml
+mainclassex41 - program : starts>
+program*- outputfile: createsanoutputfile >
+program-- inputfile: < reads
+@enduml
