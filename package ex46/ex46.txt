@@ -1,0 +1,4 @@
+@startuml
+Classinput- program : reads >
+program*- consoleoutput: counterfunction>
+@enduml
