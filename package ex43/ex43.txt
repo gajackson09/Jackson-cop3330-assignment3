@@ -1,0 +1,15 @@
+@startuml
+Class43 --> program
+
+program --|> userinput
+userinput <-- reads
+reads --> program
+userinput <-- reads
+reads --> program
+userinput <-- reads
+reads --> program
+userinput <-- reads
+reads --> program
+
+program --|> webfiles
+@enduml
