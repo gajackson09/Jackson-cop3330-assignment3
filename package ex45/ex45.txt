@@ -1,0 +1,4 @@
+@startuml
+Classinput- program : reads >
+program*- outputfile: does a find and replace>
+@enduml
