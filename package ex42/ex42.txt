@@ -1,0 +1,4 @@
+@startuml
+mainclassex42 - program : starts>
+program*- outputtoconsole: readsinputfileandcreatesatable>
+@enduml
